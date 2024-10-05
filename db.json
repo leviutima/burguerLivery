@@ -1,0 +1,146 @@
+{
+  "hamburgers": [
+    {
+      "id": 1,
+      "name": "Classic Burger",
+      "description": "Tradicional",
+      "price": 12.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 2,
+      "name": "Bacon Cheeseburger",
+      "description": "Duplo bacon",
+      "price": 14.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 3,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate cake with fudge frosting.",
+      "price": 6.99,
+      "image": "https://images.unsplash.com/photo-1601924572452-56a59e1b9d7d"
+    },
+    {
+      "id": 2,
+      "name": "Ice Cream Sundae",
+      "description": "Vanilla ice cream with chocolate syrup and sprinkles.",
+      "price": 5.99,
+      "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Lemonade",
+      "description": "Freshly squeezed lemonade.",
+      "price": 3.50,
+      "image": "https://images.unsplash.com/photo-1550684848-0ef87f14d380"
+    },
+    {
+      "id": 2,
+      "name": "Iced Coffee",
+      "description": "Cold brew coffee with ice.",
+      "price": 4.00,
+      "image": "https://images.unsplash.com/photo-1563901346375-9b41c78e0b83"
+    }
+  ],
+  "starters": [
+    {
+      "id": 1,
+      "name": "Mozzarella Sticks",
+      "description": "Crispy mozzarella sticks with marinara sauce.",
+      "price": 7.99,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/036/290/866/small/ai-generated-french-fries-with-dipping-sauce-on-a-transparent-background-ai-png.png"
+    },
+    {
+      "id": 2,
+      "name": "Garlic Bread",
+      "description": "Toasted garlic bread with butter and herbs.",
+      "price": 4.99,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/036/290/866/small/ai-generated-french-fries-with-dipping-sauce-on-a-transparent-background-ai-png.png"
+    }
+  ],
+  "menu": {
+    "hamburgers": [
+      {
+        "id": 1,
+        "name": "Classic Burger",
+        "description": "Tradicional",
+        "price": 12.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 2,
+        "name": "Bacon Cheeseburger",
+        "description": "Duplo bacon",
+        "price": 14.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 3,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      }
+    ],
+    "desserts": [
+      {
+        "id": 1,
+        "name": "Chocolate Cake",
+        "description": "Rich chocolate cake with fudge frosting.",
+        "price": 6.99,
+        "image": "https://images.unsplash.com/photo-1601924572452-56a59e1b9d7d"
+      },
+      {
+        "id": 2,
+        "name": "Ice Cream Sundae",
+        "description": "Vanilla ice cream with chocolate syrup and sprinkles.",
+        "price": 5.99,
+        "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071"
+      }
+    ],
+    "drinks": [
+      {
+        "id": 1,
+        "name": "Lemonade",
+        "description": "Freshly squeezed lemonade.",
+        "price": 3.50,
+        "image": "https://images.unsplash.com/photo-1550684848-0ef87f14d380"
+      },
+      {
+        "id": 2,
+        "name": "Iced Coffee",
+        "description": "Cold brew coffee with ice.",
+        "price": 4.00,
+        "image": "https://images.unsplash.com/photo-1563901346375-9b41c78e0b83"
+      }
+    ],
+    "starters": [
+      {
+        "id": 1,
+        "name": "Mozzarella Sticks",
+        "description": "Crispy mozzarella sticks with marinara sauce.",
+        "price": 7.99,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/036/290/866/small/ai-generated-french-fries-with-dipping-sauce-on-a-transparent-background-ai-png.png"
+      },
+      {
+        "id": 2,
+        "name": "Garlic Bread",
+        "description": "Toasted garlic bread with butter and herbs.",
+        "price": 4.99,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/036/290/866/small/ai-generated-french-fries-with-dipping-sauce-on-a-transparent-background-ai-png.png"
+      }
+    ]
+  }
+}
