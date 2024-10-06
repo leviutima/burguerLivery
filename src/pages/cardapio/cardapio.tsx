@@ -1,9 +1,8 @@
 import CardFood from "@/components/cardFoods/card"
 import axios from "axios"
-import React, { useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 import {
     Carousel,
-    CarouselApi,
     CarouselContent,
     CarouselItem,
     CarouselNext,
@@ -68,10 +67,13 @@ const Cardapio = () => {
                 <h1 className="font-bold text-[30px] text-[#272a50]">Veja nosso cardápio</h1>
             </div>
             <span>Nossos lanches</span>
-            <Carousel className="w-[80vw]">
+            <Carousel className="w-[80vw]"
+            opts={{
+                loop:true
+            }}>
                 <CarouselContent >
                     {hamburgers.map((item, index) => (
-                        <CarouselItem key={index} className=" md:basis-1/3 lg:basis-56 flex items-center justify-center">
+                        <CarouselItem key={index} className="md:basis-1/3 lg:basis-56 flex items-center justify-center">
                             <div className="flex gap-8">
                                 <CardFood
                                     image={item.image}

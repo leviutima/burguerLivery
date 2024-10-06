@@ -1,6 +1,8 @@
 import CardFood from "@/components/cardFoods/card"
+import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel"
 import { propsHamburguer } from "@/utils/propsBurguerLivery"
 import axios from "axios"
+import Autoplay from "embla-carousel-autoplay"
 import { useEffect, useState } from "react"
 
 const HamburguerPage = () => {
@@ -25,18 +27,25 @@ const HamburguerPage = () => {
             <div>
                 <h1 className="font-bold text-[30px] text-[#272a50]">Veja a lista completa dos nossos hamburguers</h1>
             </div>
-            <div className="flex gap-8">
-                {hamburguers.map((item) => {
-                    return(
+        <Carousel className="w-[80vw]"
+        opts={{
+            loop:true
+        }}>
+            <CarouselContent className="">
+            {hamburguers.map((item) => (
+                <CarouselItem className="md:basis-1/3 lg:basis-56 flex items-center justify-center">
                         <CardFood 
                             image={item.image}
                             title={item.name}
-
                             price={item.price}
                         />
-                    )
-                })}
-            </div>
+                </CarouselItem>
+                ))}
+            </CarouselContent>
+            <CarouselPrevious />
+            <CarouselNext />
+        </Carousel>
+
         </div>
     )
 }

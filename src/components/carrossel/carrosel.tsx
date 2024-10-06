@@ -15,7 +15,7 @@ const Carrossel = ({children}: propsCarrossel) => {
         <Carousel className="w-[80vw] ">
             <CarouselContent>
                 <div className="flex">
-                <CarouselItem>
+                <CarouselItem className="md:basis-1/3 lg:basis-56 flex items-center justify-center">
                     {children}
                 </CarouselItem>
                 </div>

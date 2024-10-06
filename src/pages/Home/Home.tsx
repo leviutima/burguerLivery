@@ -18,7 +18,7 @@ export function Home() {
                     transition={{ duration: 0.9, delay: 0.3 }} className='font-medium text-[20px] text-center sm:text-center lg:text-start lg:text-[25px] lg:w-[500px]'>
                     Nós fazemos deliciosos hamburguers e entregamos na sua porta
                 </motion.p>
-                <Link to='/cardapio'>
+                <Link to='/cardapio/principais'>
                     <motion.Button className='bg-[#FFC00C] w-36 h-14 rounded-full text-[#272a50]' 
                     initial={{ y: 65, opacity: 0 }}
                     whileInView={{ y: 0, opacity: 1 }}
