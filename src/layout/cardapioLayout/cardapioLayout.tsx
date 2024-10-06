@@ -1,6 +1,5 @@
 import ButtonCardapio from "@/components/buttonCardapio/buttonCardapio";
 import Header from "@/components/header/header";
-import Cardapio from "@/pages/cardapio/cardapio";
 import { Outlet } from "react-router-dom";
 
 export function CardapioLayout() {
@@ -10,7 +9,7 @@ export function CardapioLayout() {
             <div className="flex flex-col items-center ">
                 <ButtonCardapio />
             </div> 
-            <Cardapio />
+            <Outlet />
         </div>
     )
 }

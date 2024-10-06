@@ -1,4 +1,5 @@
 import CardFood from "@/components/cardFoods/card"
+import { TitleContainer } from "@/components/globalStyle/globalStyle"
 import { propsEntradinhas } from "@/utils/propsBurguerLivery"
 import axios from "axios"
 import { useEffect, useState } from "react"

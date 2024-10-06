@@ -21,7 +21,7 @@ const HamburguerPage = () => {
     }, [])
 
     return (
-        <div className="flex flex-col gap-8 items-start ml-48 mt-10">
+        <div className="flex flex-col gap-6 items-start ml-48 mt-10">
             <div>
                 <h1 className="font-bold text-[30px] text-[#272a50]">Veja a lista completa dos nossos hamburguers</h1>
             </div>
@@ -31,6 +31,7 @@ const HamburguerPage = () => {
                         <CardFood 
                             image={item.image}
                             title={item.name}
+
                             price={item.price}
                         />
                     )

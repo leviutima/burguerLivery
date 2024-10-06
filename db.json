@@ -20,6 +20,55 @@
       "description": "Duplo bacon",
       "price": 18.99,
       "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 4,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 5,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 6,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 7,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 8,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 9,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+    },
+    {
+      "id": 10,
+      "name": "Doble Cheader",
+      "description": "Duplo bacon",
+      "price": 18.99,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
     }
   ],
   "desserts": [
@@ -28,14 +77,14 @@
       "name": "Chocolate Cake",
       "description": "Rich chocolate cake with fudge frosting.",
       "price": 6.99,
-      "image": "https://images.unsplash.com/photo-1601924572452-56a59e1b9d7d"
+      "image": "https://static.vecteezy.com/system/resources/previews/021/217/130/non_2x/petit-gateau-dessert-png.png"
     },
     {
       "id": 2,
       "name": "Ice Cream Sundae",
       "description": "Vanilla ice cream with chocolate syrup and sprinkles.",
       "price": 5.99,
-      "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071"
+      "image": "https://static.vecteezy.com/system/resources/previews/021/217/130/non_2x/petit-gateau-dessert-png.png"
     }
   ],
   "drinks": [
@@ -92,6 +141,55 @@
         "description": "Duplo bacon",
         "price": 18.99,
         "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 4,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 5,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 6,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 7,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 8,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 9,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
+      },
+      {
+        "id": 10,
+        "name": "Doble Cheader",
+        "description": "Duplo bacon",
+        "price": 18.99,
+        "image": "https://static.vecteezy.com/system/resources/previews/023/254/633/original/delicious-hamburger-isolated-on-transparent-background-png.png"
       }
     ],
     "desserts": [
@@ -100,14 +198,14 @@
         "name": "Chocolate Cake",
         "description": "Rich chocolate cake with fudge frosting.",
         "price": 6.99,
-        "image": "https://images.unsplash.com/photo-1601924572452-56a59e1b9d7d"
+        "image": "https://static.vecteezy.com/system/resources/previews/021/217/130/non_2x/petit-gateau-dessert-png.png"
       },
       {
         "id": 2,
         "name": "Ice Cream Sundae",
         "description": "Vanilla ice cream with chocolate syrup and sprinkles.",
         "price": 5.99,
-        "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071"
+        "image": "https://static.vecteezy.com/system/resources/previews/021/217/130/non_2x/petit-gateau-dessert-png.png"
       }
     ],
     "drinks": [

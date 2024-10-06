@@ -17,9 +17,9 @@ const Header = () => {
                     <Link to='/'>
                         <li>Home</li>
                     </Link>
-                    <Link to='/cardapio'>
-                        <li>Cardápio</li>
-                    </Link>
+                    <li key="cardapio">
+                        <Link to='/cardapio/principais'>Cardápio</Link>
+                    </li>
                     <li>Sobre</li>
                     <li>Contato</li>
                 </ul>
